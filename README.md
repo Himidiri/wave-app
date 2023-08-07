@@ -17,19 +17,19 @@ Follow these steps to run the app from a Python virtual environment:
    ```bash
    python -m venv venv
    ```
+    
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
    
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 
    ```bash
    .\venv\Scripts\activate
    ```
    
-4. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 5. Run the Wave app:
 
    ```bash
